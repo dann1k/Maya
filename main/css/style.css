@@ -1,0 +1,39 @@
+@font-face {
+  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
+  font-family: 'Suisse';
+  font-weight: normal;
+}
+
+@font-face {
+  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff);
+  font-family: 'Suisse';
+  font-weight: bold;
+}
+html {
+  height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+   background-color: deepskyblue;
+}
+.style {
+  color: white;
+  position: relative;
+  max-width: 540px;
+  min-height: 100%;
+  margin: -50px auto;
+  padding: 0;
+  font-family: 'Suisse';
+  box-sizing: border-box;
+  padding: 36px;
+}
+.logo{
+	width: 20%;
+	position:absolute;
+	top:0;
+	left: -40px;
+}
+footer{
+	color: white;
+}
+
+
