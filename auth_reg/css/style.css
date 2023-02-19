@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+   background-color: deepskyblue;
+}
+body{
+	background-color: deepskyblue;
+	color: white;
+}
+form{
+	width: 500px;
+}
+p{
+	margin: 10px;
+}
+}
